@@ -1,3 +1,6 @@
+package main.java.org.example;
+
+
 public class Task {
 
     private String taskName;

@@ -1,3 +1,5 @@
+package main.java.org.example;
+
 public class Subtask extends Task {
 
     public Subtask(String taskName, String taskDescription, int taskId, TaskStatus taskStatus) {
